@@ -3,6 +3,12 @@
 	padding: 1px;
 }
 
+.img-fluid {
+	border-style: solid;
+	padding: 1px;
+	border-color: black;
+}
+
 .navbar-brand {
 	font-family: "French Script MT";
 	font-size: 75px;
